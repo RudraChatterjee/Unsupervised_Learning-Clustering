@@ -10,11 +10,11 @@
 <p align="justify"> It is important to maintain a diversified portfolio when investing in stocks in order to maximise earnings under any market condition. Having a diversified portfolio tends to yield higher returns and face lower risk by tempering potential losses when the market is down. It is often easy to get lost in a sea of financial metrics to analyze while determining the worth of a stock, and doing the same for a multitude of stocks to identify the right picks for an individual can be a tedious task. By doing a cluster analysis, one can identify stocks that exhibit similar characteristics and ones which exhibit minimum correlation. This will help investors better analyze stocks across different market segments and help protect against risks that could make the portfolio vulnerable to losses.</p>
 
 
-### Objective
+## Objective
 
 <p align="justify"> A financial consultancy firm provides their customers with personalized investment strategies. Financial data comprising of stock prices and other financial indicators for a no of companies listed under the New York Stock Exchange have been provided. The broad object is to perform data analysis, group stocks based on the various financial attributes, and share insights about the characteristics of each group.</p>
 
-### Data Dictionary
+## Data Dictionary
 
 - Ticker Symbol: An abbreviation used to uniquely identify publicly traded shares of a particular stock on a particular stock market
 - Company: Name of the company
