@@ -1,4 +1,4 @@
-# Unsupervised_Learning-Clustering_Stocks_and_personalizedPortfolio
+# Unsupervised_Learning-Clustering_Stocks_and_Personalized-Portfolio-Recommender
 
 ## Summary
 <p align="justify"> This project explores and analyzes financial data of a number of securities using EDA and visualization. Following data scaling, K-means clustering is applied to this dataset and optimum no of clusters are selected using the elbow method and silhouette visualizer. Next, hierarchical clustering is applied to the dataset for different distance metrics and linkage methods. Optimal no of clusters is selected by examining dendograms and cophenetic correlation values. Cluster profiles obtained from the two different types of clustering are compared and contrasted and different portfolios of stocks depending on different investment strategies (long-term vs short-term, risk on vs conservative) are recommended for clients.</p>
